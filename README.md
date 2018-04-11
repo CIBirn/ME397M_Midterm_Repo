@@ -1,8 +1,8 @@
 Git is the best! 
 
-Cat needs to learn how to spell.
 Git definitely deserves all this hype.
 
-Bruk is the clear Git master. He even deleted Cat's second line of text!
+Bruk is the clear Git master. 
+Sam is not bad, pretty good.
 
-Why are you both so mean?? 
+Who is Cat?
